@@ -12,7 +12,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #f2f2f2;
+    background-color: #363636;
 }
 
 .container{
@@ -41,9 +41,9 @@ h1{
 
 button{
     color: #fff;
-    background-color: #000;
+    background-color: #0c0052;
     border: none;
-    width: 120px;
+    width: 125px;
     height: 40px;
     border-radius: 6px;
     font-size: 0.9rem;

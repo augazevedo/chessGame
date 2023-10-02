@@ -1,2 +1,2 @@
-# chessGame
-Chess Game / Jogo de Xadrez
+# beecrowdSQL
+beecrowd SQL exercise answers / Respostas exercícios SQL beecrowd
